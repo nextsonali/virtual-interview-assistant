@@ -1,2 +1,2 @@
-pip install streamlit
-pip install audio-recorder-streamlit
+streamlit
+audio-recorder-streamlit
